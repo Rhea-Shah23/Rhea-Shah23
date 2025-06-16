@@ -3,7 +3,7 @@
 <h1 align="center">Hello World, I'm Rhea Shah!</h1>
 
 <p align="center">
-  Computer Science @ UIUC | Aspiring AI/ML Researcher | Builder & Leader<br>
+  Computer Science @ UIUC | Aspiring AI/ML Engineer | Builder & Leader<br>
   Champaign, IL | <a href="mailto:rheats2@illinois.edu">rheats2@illinois.edu</a>
 </p>
 
