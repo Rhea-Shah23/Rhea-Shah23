@@ -4,7 +4,7 @@
 
 <p align="center">
   Computer Science @ UIUC | Aspiring AI/ML Engineer | Builder & Leader<br>
-  Champaign, IL | <a href="mailto:rheats2@illinois.edu">rheats2@illinois.edu</a>
+  Chicago, IL | <a href="mailto:rheats2@illinois.edu">rheats2@illinois.edu</a>
 </p>
 
 ---
