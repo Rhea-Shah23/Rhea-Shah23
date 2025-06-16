@@ -1,19 +1,108 @@
-<h1 align="center">Hello World I'm Rhea Shah</h1>
-<h3 align="center">Computer Science Student at University of Illinois Urbana-Champaign</h3>
+<!-- README.md for Rhea Shah -->
 
-- I'm currently working on [3D printing failure detection using deep learning](sample-link)
+<h1 align="center">Hello World, I'm Rhea Shah!</h1>
 
-- I’m currently learning **multimodal AI, unlearning, deep learning**
-
-- Interested In: **deep learning, computer vision, multimodal**
-
-- Reach me: **rheats2@illinois.edu**
-
-- Fun Fact: **Summited Mt. Kilimanjaro Before I was 18!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Computer Science @ UIUC | Aspiring AI/ML Researcher | Builder & Leader<br>
+  Champaign, IL | <a href="mailto:rheats2@illinois.edu">rheats2@illinois.edu</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## About Me
+
+I'm an undergraduate student at the University of Illinois at Urbana-Champaign majoring in Computer Science, passionate about pushing the boundaries of AI/ML to solve real-world problems. 
+
+I thrive at the intersection of research, engineering, and problem solving. 
+
+With experience spanning from academic research (MIT Lincoln Lab, Northwestern) to teaching large groups of students, I bring both technical depth and collaborative leadership to every project.
+
+---
+
+## Technical Skills
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+
+### Tools & Frameworks
+
+* TensorFlow, PyTorch, Scikit-learn
+* R (data wrangling, ML, EDA)
+* BERT, CNNs, SVMs, Vision Transformers
+* Git, GitHub, Jupyter, Linux
+
+### Focus Areas
+
+* Machine Learning & Deep Learning
+* Computer Vision
+* Natural Language Processing
+* AI for Healthcare
+* Human-Centered Computing
+
+---
+
+## Featured Projects & Research
+
+### Diabetic Retinopathy Prediction *(Independent Research)*
+
+* NeurIPS 2023 Spotlight Project (Top 20 out of 335 submissions)
+* Achieved SOTA accuracy using Vision Transformers on RetinaMNIST dataset.
+* Focused on model compression and deployment on wearable medical devices.
+
+### Predicting 3D Printing Failures — *MIT Lincoln Laboratory*
+
+* Developed an autonomous quality control system for 3D printing using deep learning.
+* Conducted comparative analysis of architectures including ResNet18/50, Vision Transformer, and Swin Transformer using a modified CAXTON dataset.
+* Achieved 89% accuracy using Pretrained ResNet50 and demonstrated efficient performance with feature extraction (only 513 trainable parameters).
+* Proposed a real-time deployment path leveraging computationally efficient models for in-situ manufacturing environments.
+
+### Fake News Detection with BERT — *MIT Lincoln Laboratory*
+
+* Designed and trained hybrid NLP classifiers (BERT + SVM) to detect misinformation.
+* Currently researching AI-enhanced 3D printing error detection and correction.
+
+### Computational Immunology Research — *Northwestern University*
+
+* Preprocessed and analyzed esophageal biopsy data to aid in the diagnosis of GERD and Systemic Sclerosis.
+* Trained and evaluated ML models (CNN, kNN, SVM, Logistic Regression) in R for medical diagnostics.
+
+### AI-Enhanced Scheduling Assistant
+
+* Developed a smart scheduler tool using Python + JavaScript.
+* Received \$700 Innovation Grant for UI/UX prototyping and deployment in academic settings.
+
+---
+## Education
+
+**University of Illinois at Urbana-Champaign**
+*B.S. Computer Science (2024–2027)*
+
+### Notable Coursework
+
+* Object-Oriented Programming (Java)
+* Discrete Mathematics
+* Computer Science Inquiries (Web Dev, Networking)
+* BC Calculus I/II and II/III (Advanced Sequence)
+
+### Awards & Recognition
+
+* NeurIPS Spotlight Selection (Top 6%) – 2023
+* Innovation Grant Awardee – AI Scheduler Project (2023)
+
+---
+## Currently Exploring 
+* Quantum Computing
+* Muli-modal AI
+* Applications in Quantiative Finance
+---
+## Contact Me
+
+I'm always open to collaborations, internships, and new research opportunities!
+
+**Email**: [rheats2@illinois.edu](mailto:rheats2@illinois.edu)
+**Location**: Champaign, IL (Open to Remote/Hybrid AND In-Person Roles)
