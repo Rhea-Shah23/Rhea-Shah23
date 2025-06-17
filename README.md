@@ -80,7 +80,7 @@ With experience spanning from academic research (MIT Lincoln Lab, Northwestern) 
 ## Education
 
 **University of Illinois at Urbana-Champaign**
-*B.S. Computer Science (2024–2027)*
+*B.S. Computer Science (2025-2028)*
 
 ### Notable Coursework
 
