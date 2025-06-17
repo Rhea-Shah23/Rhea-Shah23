@@ -4,7 +4,7 @@
 
 <p align="center">
   Computer Science @ UIUC | Aspiring AI/ML Engineer | Builder & Leader<br>
-  Chicago, IL | <a href="mailto:rheats2@illinois.edu">rheats2@illinois.edu</a>
+  Chicago, IL | <a href="mailto:rheats2@illinois.edu">rheats2@illinois.edu</a> | <a href="linkedin.com/in/rhea-shah-97b288370"> LinkedIn </a>
 </p>
 
 ---
@@ -105,4 +105,7 @@ With experience spanning from academic research (MIT Lincoln Lab, Northwestern) 
 I'm always open to collaborations, internships, and new research opportunities!
 
 **Email**: [rheats2@illinois.edu](mailto:rheats2@illinois.edu)
+
+**LinkedIn**: <a href="linkedin.com/in/rhea-shah-97b288370"> Connect with Me! </a>
+
 **Location**: Champaign, IL (Open to Remote/Hybrid AND In-Person Roles)
