@@ -28,13 +28,23 @@ With experience spanning from academic research (MIT Lincoln Lab, Northwestern) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Tools & Frameworks
 
-* TensorFlow, PyTorch, Scikit-learn
-* R (data wrangling, ML, EDA)
-* BERT, CNNs, SVMs, Vision Transformers
-* Git, GitHub, Jupyter, Linux
+* PyTorch
+* Hugging Face
+* React
+* sckit-learn
+* AutoKeras
+* auto-sklearn
+* pandas
+* NumPy
+* matplotlib
+* seaborn
+* torchvision
+* TensorFlow
+* ggplot2
 
 ### Focus Areas
 
@@ -48,33 +58,22 @@ With experience spanning from academic research (MIT Lincoln Lab, Northwestern) 
 
 ## Featured Projects & Research
 
-### Diabetic Retinopathy Prediction *(Independent Research)*
+### 2024 NeurIPS Spotlight Project: [Advancing Diabetic Retinopathy Diagnosis Using Vision Transformers](https://github.com/Rhea-Shah23/DiabeticRetinopathyResearch)
+* Engineered a Vision Transformer in PyTorchLightning for 5-class diabetic retinopathy diagnosis using the RetinaMNIST dataset
+* Deployed patch embeddings, self-attention, and positional encodings to capture spatial-retinal patterns with high accuracy
+* Surpassed all published benchmarks, including Google AutoML Vision, setting a new state-of-the-art benchmark
 
-* NeurIPS 2023 Spotlight Project (Top 20 out of 335 submissions)
-* Achieved SOTA accuracy using Vision Transformers on RetinaMNIST dataset.
-* Focused on model compression and deployment on wearable medical devices.
+### [Distributed Real-Time Risk Engine for Crypto Derivatives](https://github.com/Rhea-Shah23/CryptoRiskEngine)
+* Built a real-time risk engine in Rust to compute PnL, exposure, and liquidation metrics for high-frequency crypto derivatives trading
+* Integrated Kafka and TimescaleDB to support millisecond latency data ingestion and scalable time-series risk aggregation
+* Deployed Grafana dashboards to monitor system-wide financial health, enabling sub-second insights for automated trading decisions
 
-### Predicting 3D Printing Failures — *MIT Lincoln Laboratory*
-
-* Developed an autonomous quality control system for 3D printing using deep learning.
-* Conducted comparative analysis of architectures including ResNet18/50, Vision Transformer, and Swin Transformer using a modified CAXTON dataset.
-* Achieved 89% accuracy using Pretrained ResNet50 and demonstrated efficient performance with feature extraction (only 513 trainable parameters).
-* Proposed a real-time deployment path leveraging computationally efficient models for in-situ manufacturing environments.
-
-### Fake News Detection with BERT — *MIT Lincoln Laboratory*
-
-* Designed and trained hybrid NLP classifiers (BERT + SVM) to detect misinformation.
-* Currently researching AI-enhanced 3D printing error detection and correction.
-
-### Computational Immunology Research — *Northwestern University*
-
-* Preprocessed and analyzed esophageal biopsy data to aid in the diagnosis of GERD and Systemic Sclerosis.
-* Trained and evaluated ML models (CNN, kNN, SVM, Logistic Regression) in R for medical diagnostics.
-
-### AI-Enhanced Scheduling Assistant
-
-* Developed a smart scheduler tool using Python + JavaScript.
-* Received \$700 Innovation Grant for UI/UX prototyping and deployment in academic settings.
+### [3D-Printing Failure Detection: Comparative Analysis Using Deep Learning](https://github.com/Rhea-Shah23/3DPrintingFailure)
+* Partnered with MIT Lincoln Laboratories
+* Engineered a deep learning pipeline to classify 3D printing failures using a curated 10K-image subset of the CAXTON dataset
+* Benchmarked ResNet, ViT, and Swin models with ResNet50 achieving 89% accuracy
+* Used feature extraction to cut model size by 99.9%
+* Resolved data quality issues and conducted model analysis to inform autonomous defect detection in additive manufacturing 
 
 ---
 ## Education
@@ -85,9 +84,10 @@ With experience spanning from academic research (MIT Lincoln Lab, Northwestern) 
 ### Notable Coursework
 
 * Object-Oriented Programming (Java)
+* Machine Learning Seminar
+* App Development
 * Discrete Mathematics
-* Computer Science Inquiries (Web Dev, Networking)
-* BC Calculus I/II and II/III (Advanced Sequence)
+* Calculus
 
 ### Awards & Recognition
 
@@ -97,8 +97,8 @@ With experience spanning from academic research (MIT Lincoln Lab, Northwestern) 
 ---
 ## Currently Exploring 
 * Quantum Computing
-* Muli-modal AI
-* Applications in Quantiative Finance
+* Multimodal AI
+* Applications in Quantitative Finance
 ---
 ## Contact Me
 
