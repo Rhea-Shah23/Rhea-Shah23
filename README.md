@@ -4,7 +4,7 @@
 
 <p align="center">
   Computer Science @ UIUC | Aspiring AI/ML Engineer | Builder & Leader<br>
-  Chicago, IL | <a href="mailto:rheats2@illinois.edu">rheats2@illinois.edu</a> | <a href="linkedin.com/in/rhea-shah-97b288370"> LinkedIn </a>
+  Chicago, IL | <a href="mailto:rheats2@illinois.edu">rheats2@illinois.edu</a> | <a href="linkedin.com/in/rheatshah"> linkedin.com/in/rheatshah </a>
 </p>
 
 ---
@@ -16,6 +16,11 @@ I'm an undergraduate student at the University of Illinois at Urbana-Champaign m
 I thrive at the intersection of research, engineering, and problem solving. 
 
 With experience spanning from academic research (MIT Lincoln Lab, Northwestern) to teaching large groups of students, I bring both technical depth and collaborative leadership to every project.
+
+### Current Work: 
+I'm currently working on the intersection of AI and finance by building a high-frequency trading enviornment to compare the performance of three different agentic AI that represents real world trading strategies. 
+
+To learn more about this project, see my progress, or give me some advice, click [here!](https://github.com/Rhea-Shah23/HFT-Arena)
 
 ---
 
