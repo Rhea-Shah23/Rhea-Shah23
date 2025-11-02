@@ -4,23 +4,22 @@
 
 <p align="center">
   Computer Science @ UIUC | Aspiring AI/ML Engineer | Builder & Leader<br>
-  Chicago, IL | <a href="mailto:rheats2@illinois.edu">rheats2@illinois.edu</a> | <a href="linkedin.com/in/rheatshah"> linkedin.com/in/rheatshah </a>
+  Chicago, IL | <a href="mailto:rheats2@illinois.edu">rheats2@illinois.edu</a> | <a href="linkedin.com/in/rheatshah"> linkedin.com/in/rheatshah </a> | <a href="rhea-shah23.github.io"> rhea-shah23.github.io </a>
 </p>
 
 ---
 
 ## About Me
 
-I'm an undergraduate student at the University of Illinois at Urbana-Champaign majoring in Computer Science, passionate about pushing the boundaries of AI/ML to solve real-world problems. 
+I'm studying computer science at the University of Illinois at Urbana-Champaign (UIUC). I'm passionate about building solutions to real world problems by pushing the boundaries of AI/ML. I thrive at the intersection of research, engineering, and problem solving. 
 
-I thrive at the intersection of research, engineering, and problem solving. 
-
-With experience spanning from academic research (MIT Lincoln Lab, Northwestern) to teaching large groups of students, I bring both technical depth and collaborative leadership to every project.
+Currently, I'm working as a part-time machine learning engineer at John Deere working on optimizing yield maps to work towards autonomous combines. 
 
 ### Current Work: 
-I'm currently working on the intersection of AI and finance by building a high-frequency trading enviornment to compare the performance of three different agentic AI that represents real world trading strategies. 
 
-To learn more about this project, see my progress, or give me some advice, click [here!](https://github.com/Rhea-Shah23/HFT-Arena)
+I'm current working on RoboAnnouncer, an AI-generated NBA game-recap system that can produce quick, high-quality game recaps in different styles (professional, analytical, dramatic, etc.). In the next few months, I hope to develop an end-to-end system that will allow people to access this tool and listen to short game recaps!
+
+To learn more about this project, see my progress, or give me some advice, click [here!](https://github.com/Rhea-Shah23/roboannouncer)
 
 ---
 
