@@ -3,64 +3,24 @@
 <h1 align="center">Hello World, I'm Rhea Shah!</h1>
 
 <p align="center">
-  Computer Science @ UIUC | Aspiring AI/ML Engineer | Builder & Leader<br>
+  ML | Builder & Leader | CS @ UIUC<br>
   Chicago, IL | <a href="mailto:rheats2@illinois.edu">rheats2@illinois.edu</a> | <a href="linkedin.com/in/rheatshah"> linkedin.com/in/rheatshah </a> | <a href="rhea-shah23.github.io"> rhea-shah23.github.io </a>
 </p>
 
 ---
+## Currently Building: 
 
-## About Me
+### [ARGreeksLab](https://github.com/Rhea-Shah23/ARGreeksLab): iOS + ARKit App Development
+* Visualizes Black-Scholes as something you can walk around
+* Ideally an internal tool meant to develop intuition
+* Turns options prices and greeks into interactive 3D surfaces in augmented reality 
 
-I'm studying computer science at the University of Illinois at Urbana-Champaign (UIUC). I'm passionate about building solutions to real world problems by pushing the boundaries of AI/ML. I thrive at the intersection of research, engineering, and problem solving. 
+### Atha: Your phone's second brain, never forget another text message ever again 
+* Startup
+* Dashboard of user's messages with actionable items, ideas, and any other important information
+* Context-aware notification: location-based, time-based, person-based
 
-Currently, I'm working as a part-time machine learning engineer at John Deere working on optimizing yield maps to work towards autonomous combines. 
-
-### Current Work: 
-
-I'm current working on RoboAnnouncer, an AI-generated NBA game-recap system that can produce quick, high-quality game recaps in different styles (professional, analytical, dramatic, etc.). In the next few months, I hope to develop an end-to-end system that will allow people to access this tool and listen to short game recaps!
-
-To learn more about this project, see my progress, or give me some advice, click [here!](https://github.com/Rhea-Shah23/roboannouncer)
-
----
-
-## Technical Skills
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat\&logo=java\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Tools & Frameworks
-
-* PyTorch
-* Hugging Face
-* React
-* sckit-learn
-* AutoKeras
-* auto-sklearn
-* pandas
-* NumPy
-* matplotlib
-* seaborn
-* torchvision
-* TensorFlow
-* ggplot2
-
-### Focus Areas
-
-* Machine Learning & Deep Learning
-* Computer Vision
-* Natural Language Processing
-* AI for Healthcare
-* Human-Centered Computing
-
----
-
-## Featured Projects & Research
+## Notable Projects: 
 
 ### 2024 NeurIPS Spotlight Project: [Advancing Diabetic Retinopathy Diagnosis Using Vision Transformers](https://github.com/Rhea-Shah23/DiabeticRetinopathyResearch)
 * Engineered a Vision Transformer in PyTorchLightning for 5-class diabetic retinopathy diagnosis using the RetinaMNIST dataset
@@ -80,33 +40,11 @@ To learn more about this project, see my progress, or give me some advice, click
 * Resolved data quality issues and conducted model analysis to inform autonomous defect detection in additive manufacturing 
 
 ---
-## Education
-
-**University of Illinois at Urbana-Champaign**
-*B.S. Computer Science (2025-2028)*
-
-### Notable Coursework
-
-* Object-Oriented Programming (Java)
-* Machine Learning Seminar
-* App Development
-* Discrete Mathematics
-* Calculus
-
-### Awards & Recognition
-
-* NeurIPS Spotlight Selection (Top 6%) – 2023
-* Innovation Grant Awardee – AI Scheduler Project (2023)
-
----
-## Currently Exploring 
-* Quantum Computing
-* Multimodal AI
-* Applications in Quantitative Finance
----
 ## Contact Me
 
 I'm always open to collaborations, internships, and new research opportunities!
+
+**Phone:** 815-616-7848
 
 **Email**: [rheats2@illinois.edu](mailto:rheats2@illinois.edu)
 
